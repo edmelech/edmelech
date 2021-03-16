@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ed</h1>
 <h3 align="center">A passionate frontend developer from London</h3>
 
-- 🔭 &nbsp; I’m currently working on [PitStop](www.pitstop.live)
+- 🔭 &nbsp; I’m currently working on [PitStop](https://www.pitstop.live)
 
 - 🌱 &nbsp; I’m currently learning **React and blockchain**
 
