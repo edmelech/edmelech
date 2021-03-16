@@ -4,6 +4,7 @@ Hi there 👋
 🎓  &nbsp; Le Wagon Web Dev Graduate. <br>
 🌱  &nbsp; Currently learning React. <br>
 🤓  &nbsp; Interested in blockchain development. <br> 
+<br>
     Anyone for 🎾 ?
 
 <!--
