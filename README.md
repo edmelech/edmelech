@@ -1,9 +1,9 @@
 Hi there 👋
 <br>
 <br>
-🎓  Le Wagon Web Dev Graduate. <br>
-🌱  Currently learning React. <br>
-🤓  Interested in blockchain development. <br> 
+🎓  &nbsp; Le Wagon Web Dev Graduate. <br>
+🌱  &nbsp; Currently learning React. <br>
+🤓  &nbsp; Interested in blockchain development. <br> 
     Anyone for 🎾 ?
 
 <!--
