@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ed</h1>
-<h3 align="center">A passionate frontend developer from London</h3>
+<h3 align="center">A web developer from London</h3>
 
 - 🔭 &nbsp; I’m currently working on [PitStop](https://www.pitstop.live)
 
