@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Cyrus</h1>
 <h3 align="center">A web developer from London</h3>
 
-- 🔭 &nbsp; I’m recently finished building this site for my hooby as a DJ :point_right: [DJ Melech](https://www.djmelech.com). I also just finished building an e-commerce app using Commerce.JS and Material UI. 
+- 🔭 &nbsp; I recently finished building this site for my hooby as a DJ :point_right: [DJ Melech](https://www.djmelech.com). I also just finished building an e-commerce app with React using Commerce.JS and Material UI. 
 
 - 🌱 &nbsp; I’m currently learning **React**
 
